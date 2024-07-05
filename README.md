@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Developer with 2+ years of experience in mobile application development.<br>📱 Proficient in: React Native, Node.js, Express.js, SQL, and API integration.<br>🌟 Passionate about: Creating innovative solutions and leading teams to success.<br>📚 Focused on: Continuous learning and exploring new technologies.
+🚀 Software Developer with 2.5+ years of experience in mobile application development.<br>📱 Proficient in: React Native, Node.js, Express.js, SQL, and API integration.<br>🌟 Passionate about: Creating innovative solutions and leading teams to success.<br>📚 Focused on: Continuous learning and exploring new technologies.
 
 
 ## 🌐 Socials:
